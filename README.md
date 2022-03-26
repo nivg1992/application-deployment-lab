@@ -1,1 +1,1 @@
-# application-deployment-lecture
+# application-deployment-lab
